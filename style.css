@@ -1,0 +1,41 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Your Preferred Font', sans-serif;
+}
+
+/* Navigation Styles */
+nav ul {
+    list-style: none;
+    /* Add more styling here */
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+    /* Add more styling here */
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    /* Add more styling here */
+}
+
+/* Hero Section Styles */
+.hero {
+    background-image: url('your-background-image.jpg');
+    height: 100vh;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    /* Add more styling here */
+}
+
+/* Add additional styling for other elements */
+
